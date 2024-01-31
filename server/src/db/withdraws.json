@@ -1,0 +1,85 @@
+{
+    "withdraws": [
+      {
+        "id": 1,
+        "address": "3P14159f73E4gFr7JterCCQh9QjiTjiZrG",
+        "amount": "0.043725",
+        "currency": "BTC",
+        "time": "1y",
+        "status": "completed"
+      },
+      {
+        "id": 2,
+        "address": "bc1quwfef4h4hnf4fn9f4cn4d4fg4vf4r4zr4r4nrj",
+        "amount": "0.005682",
+        "currency": "BTC",
+        "time": "1y",
+        "status": "completed"
+      },
+      {
+        "id": 3,
+        "address": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+        "amount": "1.936424",
+        "currency": "ETH",
+        "time": "1y",
+        "status": "completed"
+      },
+      {
+        "id": 4,
+        "address": "0xA28AA84b36B1865C5cB9AB33B0eE5fE93802bD75",
+        "amount": "0.540000",
+        "currency": "DOGE",
+        "time": "1y",
+        "status": "completed"
+      },
+      {
+        "id": 5,
+        "address": "LWx83xwjdsadwi27YGe3w3qbx3be43FWyB",
+        "amount": "25.369000",
+        "currency": "LTC",
+        "time": "2y",
+        "status": "completed"
+      },
+      {
+        "id": 6,
+        "address": "0x5aAeb6053F3E94C9b9A09f33669435E7Ef1BeAed",
+        "amount": "1.337000",
+        "currency": "ETH",
+        "time": "2y",
+        "status": "completed"
+      },
+      {
+        "id": 7,
+        "address": "16FT9X7fQ8ukSGRdckRHLkzFf1MxuMwNpY",
+        "amount": "1.344432",
+        "currency": "BTC",
+        "time": "2y",
+        "status": "completed"
+      },
+      {
+        "id": 8,
+        "address": "DSp5VL5EE5vg5xSm8WJevYNEoEK6Urvh6U",
+        "amount": "0.244343",
+        "currency": "BTC",
+        "time": "2y",
+        "status": "completed"
+      },
+      {
+        "id": 9,
+        "address": "0x0f4f2ac550A1b4e2280d04c21cEa7EBD822934b5",
+        "amount": "1.234345",
+        "currency": "ETH",
+        "time": "3y",
+        "status": "completed"
+      },
+      {
+        "id": 10,
+        "address": "qrxhZGvnMgV7wje3WtwyV7RzCt9X7fTjB",
+        "amount": "14.678902",
+        "currency": "BTC",
+        "time": "3y",
+        "status": "completed"
+      }
+    ]
+  }
+  

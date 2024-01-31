@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=fallback");
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+/* Additional styles */
+@import "additional-styles/utility-patterns.css";
+@import "additional-styles/range-slider.css";
+@import "additional-styles/toggle-switch.css";
+@import "additional-styles/flatpickr.css";
+@import "additional-styles/theme.css";
+
+@import "tailwindcss/utilities";
+.opacity-enter {
+  opacity: 0;
+  transition: 400ms ease-in-out;
+  -webkit-transition: 400ms ease-in-out;
+  -moz-transition: 400ms ease-in-out;
+  -ms-transition: 400ms ease-in-out;
+  -o-transition: 400ms ease-in-out;
+}
+
+.opacity-enter-active {
+  opacity: 0;
+  transition: 400ms ease-in-out;
+  -webkit-transition: 400ms ease-in-out;
+  -moz-transition: 400ms ease-in-out;
+  -ms-transition: 400ms ease-in-out;
+  -o-transition: 400ms ease-in-out;
+}
+.opacity-enter-done {
+  opacity: 1;
+  transition: 400ms ease-in-out;
+  -webkit-transition: 400ms ease-in-out;
+  -moz-transition: 400ms ease-in-out;
+  -ms-transition: 400ms ease-in-out;
+  -o-transition: 400ms ease-in-out;
+}
+
+.opacity-exit {
+    opacity: 0;
+    transition: 400ms ease-in-out;
+    -webkit-transition: 400ms ease-in-out;
+    -moz-transition: 400ms ease-in-out;
+    -ms-transition: 400ms ease-in-out;
+    -o-transition: 400ms ease-in-out;
+}
+
+.opacity-exit-active {
+    opacity: 0;
+    transition: 400ms ease-in-out;
+    -webkit-transition: 400ms ease-in-out;
+    -moz-transition: 400ms ease-in-out;
+    -ms-transition: 400ms ease-in-out;
+    -o-transition: 400ms ease-in-out;
+}
+
+.opacity-exit-done {
+    opacity: 1;
+    transition: 400ms ease-in-out;
+    -webkit-transition: 400ms ease-in-out;
+    -moz-transition: 400ms ease-in-out;
+    -ms-transition: 400ms ease-in-out;
+    -o-transition: 400ms ease-in-out;
+}

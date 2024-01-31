@@ -1,0 +1,74 @@
+{
+  "cryptos": [
+    {
+      "name": "bitcoin",
+      "symbol": "BTC",
+      "link": "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
+    },
+    {
+      "name": "ethereum",
+      "symbol": "ETH",
+      "link": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    },
+    {
+      "name": "tether",
+      "symbol": "USDT",
+      "link": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    },
+    {
+      "name": "binancecoin",
+      "symbol": "BNB",
+      "link": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png"
+    },
+    {
+      "name": "cardano",
+      "symbol": "ADA",
+      "link": "https://cryptologos.cc/logos/cardano-ada-logo.png"
+    },
+    {
+      "name": "dogecoin",
+      "symbol": "DOGE",
+      "link": "https://cryptologos.cc/logos/dogecoin-doge-logo.png"
+    },
+    {
+      "name": "polkadot",
+      "symbol": "DOT",
+      "link": "https://cryptologos.cc/logos/polkadot-new-dot-logo.png"
+    },
+    {
+      "name": "uniswap",
+      "symbol": "UNI",
+      "link": "https://cryptologos.cc/logos/uniswap-uni-logo.png"
+    },
+    {
+      "name": "xrp",
+      "symbol": "XRP",
+      "link": "https://cryptologos.cc/logos/xrp-xrp-logo.png"
+    },
+    {
+      "name": "bitcoin-cash",
+      "symbol": "BCH",
+      "link": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
+    },
+    {
+      "name": "litecoin",
+      "symbol": "LTC",
+      "link": "https://cryptologos.cc/logos/litecoin-ltc-logo.png"
+    },
+    {
+      "name": "chainlink",
+      "symbol": "LINK",
+      "link": "https://cryptologos.cc/logos/chainlink-link-logo.png"
+    },
+    {
+      "name": "solana",
+      "symbol": "SOL",
+      "link": "https://cryptologos.cc/logos/solana-sol-logo.png"
+    },
+    {
+      "name": "stellar",
+      "symbol": "XLM",
+      "link": "https://cryptologos.cc/logos/stellar-xlm-logo.png"
+    }
+  ]
+}
